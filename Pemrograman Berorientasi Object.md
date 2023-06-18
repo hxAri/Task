@@ -40,7 +40,7 @@ Inheritance adalah konsep yang memungkinkan kelas baru (kelas turunan atau subcl
 * **Polymorphism (Polimorfisme)**<br/>
 Polymorphism adalah konsep yang memungkinkan objek memiliki banyak bentuk atau perilaku. Dalam OOP, ini dicapai melalui penggunaan metode yang sama dengan tanda tangan yang sama, tetapi dengan implementasi yang berbeda di kelas-kelas yang berbeda. Polimorfisme memungkinkan pengkodean yang lebih fleksibel dan ekstensibel, di mana objek dapat bergantung pada tipe objek yang lebih umum dan tetap memanggil metode yang sesuai untuk tipe objek tersebut.
 * **Abstraksi (Abstraction)**<br/>
-Abstraksi adalah konsep di mana kelas abstrak digunakan untuk mendefinisikan antarmuka umum dan mengelompokkan objek dengan karakteristik serupa. Kelas abstrak tidak dapat diinstansiasi, tetapi digunakan sebagai dasar untuk kelas-kelas turunan yang lebih sp
+Abstraksi adalah konsep di mana kelas abstrak digunakan untuk mendefinisikan antarmuka umum dan mengelompokkan objek dengan karakteristik serupa. Kelas abstrak tidak dapat diinstansiasi, tetapi digunakan sebagai dasar untuk kelas-kelas turunan yang lebih spesifik.
 
 ## No. 4
 Apa keuntungan menggunakan Pemrograman Berorientasi Objek atau OOP?<br/>
