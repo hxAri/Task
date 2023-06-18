@@ -1,5 +1,5 @@
 
-# Problem Solving 1
+# Problem Solving I
 
 Diberikan bilangan array nums dan target berupa integer, kembalikan nilai dari dua angka dimana hasil penjumlahan dua angka tersebut sama dengan nilai target.
 Dapat diasumsikan bahwa setiap input memiliki satu solusi, dan tidak diperbolehkan untuk menggunakan elemen yang sama dua kali.
