@@ -1,5 +1,4 @@
 
-# Task
 ## Pemrograman Berorientasi Objek
 ## No. 1
 Berikan penjelasan tentang Pemrograman Berorientasi Objek atau OOP!<br/>
